@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Adarsh Kushwaha</h1>
 <h3 align="center">A passionate FullStack Developer and Cybersecurity Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshkushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="adarshkushwaha" /> </p>
 
@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/[Your Twitter Handle]" target="blank">
-       <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+      <img/>
     </a>
     <a href="https://linkedin.com/in/[Your LinkedIn Handle]" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[Your LinkedIn Handle]" height="30" width="40" />
