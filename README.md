@@ -5,13 +5,7 @@
 <h3 align="center">A passionate FullStack Developer, always learning and building</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/TheAndreyZakharov/TheAndreyZakharov/blob/main/resources/keyboard1.gif?raw=true">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshkushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="adarshkushwaha" /> </p>
-
-<p align="left"> 
-    <a href="https://twitter.com/[Your Twitter Handle]" target="blank">
-        <img src="https://img.shields.io/twitter/follow/[Your Twitter Handle]?logo=twitter&style=for-the-badge" alt="adarshkushwaha" />
-    </a> 
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshkushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="adarshkushwaha" height="30px"/> </p>
 
 - 🔭 **Currently Working On:** FocusAid: AI Classroom for Autism Engagement and Productivity Monitoring
   
@@ -25,17 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/[Your Twitter Handle]" target="blank">
-      <img/>
-    </a>
     <a href="https://www.linkedin.com/in/adarshkush12/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[Your LinkedIn Handle]" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/[Your Instagram Handle]" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[Your Instagram Handle]" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/c/[Your YouTube Channel]" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[Your YouTube Channel]" height="30" width="40" />
     </a>
 </p>
 
