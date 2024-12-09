@@ -1,9 +1,9 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<img src="" />
 
 
 <h1 align="center">Hi 👋, I'm Adarsh Kushwaha</h1>
 <h3 align="center">A passionate FullStack Developer, always learning and building</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/TheAndreyZakharov/TheAndreyZakharov/blob/main/resources/keyboard1.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshkushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="adarshkushwaha" /> </p>
 
@@ -13,22 +13,22 @@
     </a> 
 </p>
 
-- 🔭 I’m currently working on **FocusAid: AI Classroom for Autism Engagement**
+- 🔭 **Currently Working On:** FocusAid: AI Classroom for Autism Engagement and Productivity Monitoring
+  
+- 🌱 **Currently Learning:** Advanced React.js and System Administration
+ 
+- 💬 **Ask Me About:** Frontend Development, PHP, Linux, and Full-Stack Projects
+  
+- ⚡ **Fun Fact:** I love painting and traveling—and I never miss a deadline!
 
-- 🌱 I’m currently learning **Cybersecurity and Advanced React.js**
 
-- 💬 Ask me about **Frontend, PHP, Linux, and Cybersecurity**
-
-- 📫 How to reach me **[Your Email]**
-
-- ⚡ Fun fact **I paint, travel, and still manage to meet deadlines!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/[Your Twitter Handle]" target="blank">
       <img/>
     </a>
-    <a href="https://linkedin.com/in/[Your LinkedIn Handle]" target="blank">
+    <a href="https://www.linkedin.com/in/adarshkush12/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[Your LinkedIn Handle]" height="30" width="40" />
     </a>
     <a href="https://instagram.com/[Your Instagram Handle]" target="blank">
