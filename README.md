@@ -1,97 +1,74 @@
-<!-- Load Custom Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&family=Pacifico&family=Poppins:wght@400;700&display=swap" rel="stylesheet" />
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://adityakushwaha.io)
+<h1 align="center">Hi 👋, I'm Adarsh Kushwaha</h1>
+<h3 align="center">A passionate FullStack Developer and Cybersecurity Enthusiast</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<style>
-  h1, h2, h3 {
-    font-family: 'Pacifico', cursive;
-    color: #FF4500;
-  }
-  p, ul, li {
-    font-family: 'Raleway', sans-serif;
-    font-size: 1.2rem;
-    color: #444;
-  }
-</style>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshkushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="adarshkushwaha" /> </p>
 
-#  <span style="font-family: 'Pacifico', cursive; color: #FF6347;">Adarsh Kushwaha</span> | Full-Stack Developer & Aspiring Cybersecurity Analyst  
-
-Welcome! I'm an **MCA graduate student** at **Amity University Noida**, specializing in **web development, cybersecurity**, and **AI-driven solutions**. My portfolio reflects a blend of creativity, technical expertise, and innovative thinking.  
-
----
-
-## 💼 **About Me**  
-- 🎓 **Education**: Master of Computer Applications (MCA)  
-- 🌐 **Web Developer**: Experience in creating engaging and functional web solutions.  
-- 🎯 **Cybersecurity Aspirations**: Exploring ethical hacking and secure system design.  
-- 🎨 **Creative Edge**: Passionate about **art and portrait painting**.  
-
----
-
-## 🛠 **Technical Expertise**  
-
-### **Languages & Frameworks**  
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="HTML" width="150" />
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS" width="150" />
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="JavaScript" width="150" />
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Node.js" width="150" />
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" alt="React.js" width="150" />
+<p align="left"> 
+    <a href="https://twitter.com/[Your Twitter Handle]" target="blank">
+        <img src="https://img.shields.io/twitter/follow/[Your Twitter Handle]?logo=twitter&style=for-the-badge" alt="adarshkushwaha" />
+    </a> 
 </p>
 
-### **Tools & Platforms**  
-<p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="150" />
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="Linux" width="150" />
-  <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" alt="PHP" width="150" />
-  <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" alt="MySQL" width="150" />
-  <img src="https://media.giphy.com/media/TqywQsAYCG2LcmBsyf/giphy.gif" alt="Cloud Tech" width="150" />
+- 🔭 I’m currently working on **FocusAid: AI Classroom for Autism Engagement**
+
+- 🌱 I’m currently learning **Cybersecurity and Advanced React.js**
+
+- 💬 Ask me about **Frontend, PHP, Linux, and Cybersecurity**
+
+- 📫 How to reach me **[Your Email]**
+
+- ⚡ Fun fact **I paint, travel, and still manage to meet deadlines!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://twitter.com/[Your Twitter Handle]" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarshkushwaha" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/[Your LinkedIn Handle]" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[Your LinkedIn Handle]" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/[Your Instagram Handle]" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[Your Instagram Handle]" height="30" width="40" />
+    </a>
+    <a href="https://www.youtube.com/c/[Your YouTube Channel]" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[Your YouTube Channel]" height="30" width="40" />
+    </a>
 </p>
 
----
-
-## 🔥 **Highlighted Projects**  
-
-### **FocusAid: AI Classroom for Autism Engagement**  
-<p>
-  <img src="https://media.giphy.com/media/3o7TKsQxOmUUVGp8d6/giphy.gif" alt="AI Classroom" width="300" />
-</p>  
-- **Description**: An AI-powered classroom tracking student productivity and engagement using **facial recognition**.  
-- **Tech Stack**: Python, TensorFlow, React.js  
-
-### **HealthSync: AI-Powered Healthcare Platform**  
-<p>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Healthcare Platform" width="300" />
-</p>  
-- **Description**: AI-integrated platform analyzing medical data for accurate diagnostics.  
-- **Tech Stack**: CNNs, Deep Learning, Flask  
-
-### **Student Academic Resources Platform**  
-<p>
-  <img src="https://media.giphy.com/media/l1J9zYIsjPAyojfri/giphy.gif" alt="Student Platform" width="300" />
-</p>  
-- **Description**: A web-based platform for study guides, forums, and academic resources.  
-- **Tech Stack**: HTML, CSS, JavaScript, PHP, MySQL  
-
----
-
-## 📈 **GitHub Stats**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarsh-kushwaha&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-kushwaha&theme=radical" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-kushwaha&layout=compact&theme=radical" alt="Top Languages" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    </a>
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>
 </p>
 
----
+[![Adarsh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=adarshkushwaha&&theme=xcode)](https://github.com/adarshkushwaha)
 
-## 🌐 **Connect with Me**  
-- **LinkedIn**: [Adarsh Kushwaha](https://www.linkedin.com/in/adarsh-kushwaha)  
-- **Email**: [adarsh.kushwaha@example.com](mailto:adarsh.kushwaha@example.com)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshkushwaha&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="adarshkushwaha" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshkushwaha&show_icons=true&locale=en&theme=tokyonight" alt="adarshkushwaha" /></p>
 
-## 🎨 **Fun Facts**  
-- 🎧 I unwind with music and explore new genres.  
-- ✈️ Traveling inspires my creativity and broadens my perspective.  
-- 🖌️ Painting helps me express my artistic side.  
-
-*"Innovate, inspire, and impact."*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshkushw
