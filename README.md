@@ -9,16 +9,31 @@
 ---
 
 ### 🚀 My Technical Skills
-#### Programming Languages
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
-- **Backend:** PHP, Node.js
-- **Database Management:** MySQL, MongoDB
-- **Scripting:** Shell Scripting, Bash
 
-#### Tools & Frameworks
-- Version Control: Git & GitHub
-- Design: Figma, Adobe XD
-- Platforms: Linux, Windows, Cloud Services (AWS/GCP)
+#### **Programming & Markup Languages**
+<p>
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" alt="HTML5" />
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" alt="CSS3" />
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" alt="JavaScript" />
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" alt="React.js" />
+  <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" width="50" alt="PHP" />
+  <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width="50" alt="MySQL" />
+</p>
+
+#### **Tools & Technologies**
+<p>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" alt="Git" />
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50" alt="Linux" />
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="50" alt="Node.js" />
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="50" alt="Figma" />
+  <img src="https://media.giphy.com/media/TqywQsAYCG2LcmBsyf/giphy.gif" width="50" alt="Cloud Technologies" />
+</p>
+
+#### **Frameworks & Libraries**
+<p>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50" alt="Bootstrap" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50" alt="jQuery" />
+</p>
 
 ---
 
