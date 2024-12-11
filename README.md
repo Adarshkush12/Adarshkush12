@@ -1,9 +1,9 @@
-<img src="" />
+<img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM5MDY1MzcsIm5iZiI6MTczMzkwNjIzNywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjExVDA4MzcxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJlN2I1NmM1ZGFiOWQ2YTYyNzZmMzM5OTE3NGRlMzMyZjAyYzEzOTkwM2UyOGE4MTg4ZmYwN2QwY2IxMGFiMzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.MBjPZaidlaqO9soQKJDnTjiluHlbSfScxCrAZCXTD6I" />
 
 
 <h1 align="center">Hi 👋, I'm Adarsh Kushwaha</h1>
 <h3 align="center">A passionate FullStack Developer, always learning and building</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/TheAndreyZakharov/TheAndreyZakharov/blob/main/resources/keyboard1.gif?raw=true">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshkushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="adarshkushwaha" height="30px"/> </p>
 
