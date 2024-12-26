@@ -1,10 +1,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
-
-
-<h1 align="center">Hi 👋, I'm Adarsh Kushwaha</h1>
+<h2 align="center">Hi 👋, I'm Adarsh Kushwaha</h2>
 <h3 align="center">A passionate FullStack Developer, always learning and building</h3>
 <h4 align="center">I write code like I cook—sometimes it works, sometimes it’s on fire!</h4>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshkushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="adarshkushwaha" height="30px"/> </p>
